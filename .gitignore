@@ -1,0 +1,9 @@
+node_modules/
+.env
+test-results/
+playwright-report/
+report/
+blob-report/
+.DS_Store
+*.log
+CLAUDE.md
